@@ -1,0 +1,18 @@
+/
+   application/
+      Controllers/
+      Models/
+      Views/
+   fast_modules/
+      module1/
+          Controllers/
+          Models/
+          Views/
+   index.php
+   library/
+      Fast/
+      Zend/
+   public/
+      Images/
+      Scripts/
+      Styles/

@@ -1,0 +1,86 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 oct. 2014, 19:43:00
+    Author     : OPENSOFT DIRECTOR
+*/
+
+/*##############################################*/
+/*COMMON STARTING
+/*##############################################*/
+    .fleft{float: left !important;}
+    .fright{float: right;}
+    .tleft{text-align: left;}
+    .tright{text-align: right;}
+    .m10{margin:10px; }
+    .m0{margin: 0px;}
+    .m3{margin: 3px;}
+    .m5{margin: 5px;}
+    .m15{margin: 15px;}
+    
+    .pad10{padding: 10px;}
+    .pad0{padding: 0px;}
+    .pad5{padding: 5px}
+    .w-100{width: 100%}
+    .w-97{width: 99%;}
+    .w-98{width: 98%;}
+    .w-97{width: 97%;}
+    table , table tr, table tr td{border-collapse: collapse;}
+    .bg_test1{ background: #F6F6F6;   }
+    .bg_test2{  background-color: #f5f6f7;}
+    .bg_test3{
+        color: #fff;
+        background-color: #428bca;
+        border:1px solid  #357ebd;
+    }
+    .centrer{text-align: center;}
+     .bg_test4{
+        color: #fff;
+        background-color: #42CA4F;
+        border:1px solid  #42BF4E;
+        box-shadow: none;
+        outline: none;
+        
+        
+    }
+    .bg_test5{
+        color: #fff;
+        background-color: #d2322d;
+        border:1px solid #ac2925;
+    }
+    .cacher{display: none;}
+    .box{
+        box-shadow:0px 0px 3px #888;
+        -moz-box-shadow:0px 0px 3px #888;
+        -webkit-box-shadow:0px 0px 3px #fff;
+        
+    }
+    .degrade_de{
+filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#ededed',EndColorStr='#dedede');
+background-image: -webkit-linear-gradient(#ededed, #ededed 38%, #dedede);
+background-image: -moz-linear-gradient(#ededed, #ededed 38%, #dedede);
+background-image: -ms-linear-gradient(#ededed, #ededed 38%, #dedede);
+background-image: -o-linear-gradient(#ededed, #ededed 38%, #dedede);
+background-image: linear-gradient(#ededed, #ededed 38%, #dedede);
+}
+.box{}
+    .degrade_aple{
+    clear: both;
+    margin-bottom: 15px;
+    width: 980px;
+    font-size: 1em;
+    line-height: 1.25em;
+    border-top: 1px solid #fff;
+    cursor: pointer;
+    background-image: -webkit-gradient(linear, 0 0, 0 35, from(#f7f7f7), to(#fff));
+    background-image: -moz-linear-gradient(center top, #f7f7f7 0%, #fff 35px);
+    background-image: -o-linear-gradient(center top, #f7f7f7 0%, #ffffff 35px);
+    -webkit-transform: translate3d(0,0,0);
+    }
+    
+/*##############################################*/
+// COMMON END
+/*##############################################*/
